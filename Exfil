@@ -84,7 +84,7 @@
 					}
 				},
 				"type": "observed-data"
-			}{
+			},{
             "_id": "d519e525faa865906952dc2f9429b871",
             "_rev": "1-79db0af06ea2e725f96f3e4084d0d778",
             "id": "observed-data--81afa14f-5463-4251-83ba-4aac261a5ea1",
